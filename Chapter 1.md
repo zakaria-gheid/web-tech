@@ -60,6 +60,12 @@ Course: Web Technologies / M1 WIA</p>
 <li><strong>DNS (Domain Name System)</strong>: DNS translates domain names into IP addresses, allowing browsers to locate and connect to the correct server.</li>
 <li><strong>Web Hosting</strong>: Web hosting is where websites are stored and made accessible on the internet. Types of hosting include shared hosting, dedicated hosting, and cloud hosting. The type of hosting chosen depends on traffic volume and performance needs.</li>
 </ul>
+<h4 id="web-development-environments-and-tools">1.7 Web Development Environments and Tools</h4>
+<ul>
+<li><strong>Text Editors and IDEs</strong>: Popular tools like Visual Studio Code, Sublime Text, and Atom support web development with syntax highlighting, linting, and debugging features, which help catch errors and maintain organized code.</li>
+<li><strong>Version Control Systems (VCS)</strong>: Git is the standard version control system, tracking changes to code, enabling collaboration, and making it easy to revert to previous versions. GitHub is a popular platform for sharing code repositories and collaborating.</li>
+<li><strong>Browser Developer Tools</strong>: All major browsers offer developer tools, which are essential for inspecting elements, debugging JavaScript, and analyzing network activity. For instance, Chrome DevTools allows developers to view and edit HTML/CSS in real-time, helping diagnose and resolve issues.</li>
+</ul>
 </div>
 </body>
 
