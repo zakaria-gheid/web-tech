@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lab 1</title>
+  <title>1.2-Lab 1</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -14,8 +14,6 @@
 Computer Science Department<br>
 Course: Web Technologies / M1 WIA</p>
 <h1 id="lab-1-exploring-the-basics-of-web-technologies">Lab 1: Exploring the Basics of Web Technologies</h1>
-<h3 id="guidance">Guidance</h3>
-<p>This lab is designed for Master 1 students to practice the Web Technologies course under the guidance of Dr. Zakaria Gheid.</p>
 <h3 id="objective">Objective</h3>
 <p>By the end of this lab, students will understand the evolution of the web, practice basic HTML and CSS, explore the client-server model, and deploy a simple webpage using a hosting service.</p>
 <h3 id="prerequisites">Prerequisites</h3>
